@@ -9,3 +9,7 @@ Java features code samples
 ## Asynchronous RESTFul API's using RESTEasy
 
 This is sample code for how to create asynchronous rest api using `java` and `resteasy`.
+
+## Http client implementation using Apache http components
+
+This contains how to use `Apcache Http Components` and Handling connection events, retry's. Sample contains GET and POST method implemented.
