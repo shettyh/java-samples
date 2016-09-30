@@ -7,5 +7,6 @@
 	<packaging>pom</packaging>
 	<modules>
 		<module>java-threadpool-executor-sample</module>
+		<module>java-async-rest-sample</module>
 	</modules>
 </project>
