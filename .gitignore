@@ -4,3 +4,4 @@
 *.class
 *.jar
 target/
+test-output/
