@@ -21,7 +21,7 @@
         <servlet-class>
             org.jboss.resteasy.plugins.server.servlet.HttpServletDispatcher
         </servlet-class>
-        <async-supported>true</async-supported>
+        <async-supported>true</async-supported> <!-- Async request supported -->
         <init-param>
             <param-name>javax.ws.rs.Application</param-name>
             <param-value>com.restasync.rest.RestApp</param-value>

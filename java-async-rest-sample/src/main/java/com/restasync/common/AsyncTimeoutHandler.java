@@ -5,6 +5,11 @@ import javax.ws.rs.container.TimeoutHandler;
 import javax.ws.rs.core.Response;
 import javax.ws.rs.core.Response.Status;
 
+/**
+ * @see TimeoutHandler
+ * @author manjunatha_h
+ *
+ */
 public class AsyncTimeoutHandler implements TimeoutHandler {
 
 	@Override

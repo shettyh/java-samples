@@ -7,6 +7,10 @@ import java.util.Set;
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;
 
+/**
+ * REST application class
+ * @author manjunatha_h
+ */
 @ApplicationPath("ws")
 public class RestApp extends Application {
 

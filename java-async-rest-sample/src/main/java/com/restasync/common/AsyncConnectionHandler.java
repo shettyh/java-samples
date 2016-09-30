@@ -3,6 +3,11 @@ package com.restasync.common;
 import javax.ws.rs.container.AsyncResponse;
 import javax.ws.rs.container.ConnectionCallback;
 
+/**
+ * @see ConnectionCallback
+ * @author manjunatha_h
+ *
+ */
 public class AsyncConnectionHandler implements ConnectionCallback {
 
 	@Override

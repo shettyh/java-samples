@@ -2,6 +2,10 @@ package com.restasync.common;
 
 import javax.ws.rs.container.CompletionCallback;
 
+/**
+ * @see CompletionCallback
+ * @author manjunatha_h
+ */
 public class AsyncCompletionHandler implements CompletionCallback {
 
 	@Override
